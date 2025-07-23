@@ -33,7 +33,6 @@ Rock\_Paper\_Scissors\_Project/
 To play the game locally:
 
 1. Clone the repository  
-   git clone https://github.com/shreya227108/Rock_Paper_Scissors_Project
 
 2. Navigate to the project folder
    cd Rock_Paper_Scissors_Project
@@ -63,4 +62,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+Visit the Website:
+https://shreya227108.github.io/Rock_Paper_Sessor_Project/
+
+---
 Enjoy the game and feel free to enhance it with animations, sound effects, or more advanced logic! 🕹️
