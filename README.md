@@ -64,5 +64,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Enjoy the game and feel free to enhance it with animations, sound effects, or more advanced logic! 🕹️
-
-```
